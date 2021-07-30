@@ -25,6 +25,7 @@ function Portfolio() {
                 </li>
             </ul>
         </div>
+        <a href="https://www.canva.com/design/DAElcdmibwk/l6oKilCtyQK1sjYytMK8xg/view?utm_content=DAElcdmibwk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">Resume</a>
     </section>
 
     </div>

@@ -13,7 +13,10 @@ const Footer = () => {
                 <a href="https://github.com/joshuagalvez11">▶github.com</a>
             </li>
             <li>
-                <a href="https://joshuagalvez11.github.io/portfolio/">▶Porfolio</a>
+                <a href="https://www.linkedin.com/in/joshua-galvez-058532211/">▶LinkedIn</a>
+            </li>
+            <li>
+                <a href="https://joshuagalvez11.github.io/my-portfolio/">▶Porfolio</a>
             </li>
         </ul>
     </div>
