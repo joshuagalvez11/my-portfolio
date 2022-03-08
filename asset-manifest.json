@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.646275b5.chunk.css",
-    "main.js": "/my-portfolio/static/js/main.d2cd3caa.chunk.js",
-    "main.js.map": "/my-portfolio/static/js/main.d2cd3caa.chunk.js.map",
+    "main.js": "/my-portfolio/static/js/main.8c4fedcb.chunk.js",
+    "main.js.map": "/my-portfolio/static/js/main.8c4fedcb.chunk.js.map",
     "runtime-main.js": "/my-portfolio/static/js/runtime-main.71fbc5c2.js",
     "runtime-main.js.map": "/my-portfolio/static/js/runtime-main.71fbc5c2.js.map",
     "static/js/2.bc3d5af9.chunk.js": "/my-portfolio/static/js/2.bc3d5af9.chunk.js",
@@ -15,15 +15,18 @@
     "static/media/style.css": "/my-portfolio/static/media/cyberpunkAesthetic.88a7fa56.jpg",
     "static/media/daySchedulerCapture.1317941a.png": "/my-portfolio/static/media/daySchedulerCapture.1317941a.png",
     "static/media/fitness-tracker.3318efcd.PNG": "/my-portfolio/static/media/fitness-tracker.3318efcd.PNG",
+    "static/media/graphTraversals.3d932d7c.PNG": "/my-portfolio/static/media/graphTraversals.3d932d7c.PNG",
+    "static/media/instantInsanity.5d167abd.PNG": "/my-portfolio/static/media/instantInsanity.5d167abd.PNG",
     "static/media/passwordGeneratorCapture.070ec5b5.PNG": "/my-portfolio/static/media/passwordGeneratorCapture.070ec5b5.PNG",
     "static/media/perfect-night-in.a8b8aca9.PNG": "/my-portfolio/static/media/perfect-night-in.a8b8aca9.PNG",
     "static/media/syntax-trainer.1ab7f788.PNG": "/my-portfolio/static/media/syntax-trainer.1ab7f788.PNG",
+    "static/media/weather.1bdcda13.PNG": "/my-portfolio/static/media/weather.1bdcda13.PNG",
     "static/media/wiki-hive.6b183f63.PNG": "/my-portfolio/static/media/wiki-hive.6b183f63.PNG"
   },
   "entrypoints": [
     "static/js/runtime-main.71fbc5c2.js",
     "static/js/2.bc3d5af9.chunk.js",
     "static/css/main.646275b5.chunk.css",
-    "static/js/main.d2cd3caa.chunk.js"
+    "static/js/main.8c4fedcb.chunk.js"
   ]
 }
